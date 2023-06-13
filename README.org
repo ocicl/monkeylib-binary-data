@@ -1,0 +1,10 @@
+* monkeylib-binary-data
+
+Binary data library based on code from chapter 24 of Practical Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/gigamonkey/monkeylib-binary-data.git   |
+| commit  | 22e9089  |
+| systems | monkeylib-binary-data |
+|---------+-------------------------------------------|
+
